@@ -1,2 +1,2 @@
 # nlp_lsi_selenium
-download data from Rospotrebnadzor and create a language model
+download data from Rospotrebnadzor site and create a language model
